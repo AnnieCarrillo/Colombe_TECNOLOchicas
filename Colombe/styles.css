@@ -1,0 +1,190 @@
+*{
+    background: none;
+}
+
+.container-fluid{
+    background: beige;
+    padding: 14px;
+}
+
+.logo{
+    width: 50px;
+    height: 50px;
+    margin-bottom: 10px;
+}
+
+.navbar-toggler{
+    background: rgb(180, 97, 97);
+}
+
+#menu{
+    font-family: "Fraunces";
+    font-size: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.p{
+    margin-bottom: 40px;
+    font-size: 20px;
+}
+
+.navbar-brand{
+    font-size: 50px;
+    font-family: "Fraunces";
+    opacity: 90%;
+}
+
+.nav-link{
+display: flex;
+text-align:right; 
+margin-right: 50px;
+ margin-left: 50px;
+ font-family:"Fraunces";
+ font-size: 20px;
+}
+
+.nav-link:hover{
+    opacity: 30%;
+    background: rgb(182, 182, 161);
+}
+
+.carousel-item{
+    background: white;
+    margin-bottom: 100px;
+}
+
+.menu{
+    margin-bottom: 5px;
+    display: flex;
+    font-size: 50px;
+    justify-content: center
+}
+.row{
+    background:;
+    margin-bottom: 10px;
+    display: flex;
+    flex-direction:row;
+    justify-content: center;
+    gap:200px;
+}
+
+.card1:hover{
+    opacity: 80%;
+}
+
+.card1{
+    background: beige;(253, 232, 194);
+   width: 405px;
+   height: 500px;
+   border:solid  lightgoldenrodyellow 1px;
+   border-radius: 5%;
+   flex-direction: row;
+   box-shadow: 0 16px 15px 12px gray;
+}
+
+.img-c{
+    width:380px;
+    height:260px ;
+    display: flex;
+    justify-content: center;
+    border-radius:5%;
+    margin-right: 6px;
+    margin-bottom: 5px;
+}
+
+.img-ps{
+    width:380px;
+    height:280px ;
+    display: flex;
+    justify-content: center;
+    border-radius: 5%;
+    margin-right: 6px;
+    margin-top: 10px;   
+    margin-bottom: 5px;
+}
+
+.card-text{
+    font-family: "montserrat, serif";
+    font-size: 20px;
+    text-align: justify;
+}
+
+.card-title{
+    font-family:"Fraunces";
+    font-size: 40px;
+    display: flex;
+    justify-content: center;
+    color: rgb(156, 63, 63);
+}
+
+.btn{
+ background: rgb(156, 63, 63);
+ border: none;
+ display: flex;
+ justify-content: center;
+ padding: 10px 8px 10px 8px;
+}
+
+#row-info{
+margin-top:100px;
+margin-bottom: 100px;
+margin-left: 20px;
+margin-right: 20px;
+font-family:sans-serif;
+font-size: 24px;
+}
+
+.icon{
+    width: 26px;
+    height: 26px;
+    
+}
+
+footer p{
+    font-family: sans-serif;
+}
+
+.info{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    font-family: "Fraunces";
+    font-size: 50px;
+    margin-left: 20px;
+}
+
+#row-footer{
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+    font-family:sans-serif;
+    text-align: center;
+    background: rgb(219, 219, 219);
+    padding-top: 60px;
+    padding-bottom: 40px;
+    flex-wrap: wrap;
+    text-decoration: none;
+}
+
+.icon-rs{
+    width: 20px;
+    height: 20px;
+    border-radius: 25%;
+    margin-right: 8px;
+}
+
+.link{
+    text-decoration: none;
+    
+}
+
+.link:hover{
+    opacity: 30%;
+}
+
+    
+
+
+
